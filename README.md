@@ -1,4 +1,4 @@
-# ML-DL Python
+# Machine & Deep Learning using Python
 Simple machine learning &amp; deep learning python practice codes:
 1. introduction to python
 2. regression
